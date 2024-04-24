@@ -1,0 +1,2 @@
+# item_modifier-modify_contents
+item_modifierの1項目であるmodify_contentsのサンプルになります。
