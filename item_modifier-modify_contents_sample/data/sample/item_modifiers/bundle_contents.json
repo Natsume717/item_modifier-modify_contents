@@ -1,0 +1,10 @@
+{
+    "function": "minecraft:modify_contents",
+    "component": "minecraft:bundle_contents",
+    "modifier": {
+      "function": "minecraft:set_name",
+      "target": "item_name",
+      "name": "Custom_Name"
+    }
+  }
+  

@@ -1,0 +1,32 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:bundle",
+            "functions": [
+              {
+                "function": "minecraft:set_contents",
+                "component": "minecraft:bundle_contents",
+                "entries": [
+                  {
+                    "type": "minecraft:item",
+                    "name": "minecraft:diamond",
+                    "functions": [
+                      {
+                        "function": "minecraft:set_count",
+                        "count": 64
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

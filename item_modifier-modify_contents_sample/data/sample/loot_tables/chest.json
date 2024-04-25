@@ -1,0 +1,26 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:chest",
+            "functions": [
+              {
+                "function": "minecraft:set_contents",
+                "component": "minecraft:container",
+                "entries": [
+                  {
+                    "type": "minecraft:item",
+                    "name": "minecraft:emerald"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
