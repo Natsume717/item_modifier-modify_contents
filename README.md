@@ -1,8 +1,7 @@
 # item_modifier-modify_contents
 item_modifierの1項目であるmodify_contentsのサンプルになります。
 
-~詳しくはブログ記事『[]()』を参考にしてください。~<br>
-現在執筆中
+詳しくはブログ記事『[【マイクラ】modify_contentsで格納物にitem_modifier付与【item_modifier】](https://natsumake.com/item_modifier-modify_contents/)』を参考にしてください。
 
 <h3>概要</h3>
 格納物に対してitem_modifierを適用させられます。<br>
